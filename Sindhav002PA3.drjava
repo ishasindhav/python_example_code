@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20190813-220051">
+  <project autorefresh="false" build="classes/" main="SalinasSindhav002PA3" root="" work="src/">
+    <createjar file=""/>
+    <source>
+      <file active="true" name="src/Laptop.java" package="" timestamp="09-Sep-2024 11:43:02">
+        <select from="4771" to="4771"/>
+        <scroll column="2272" row="0"/>
+      </file>
+      <file name="src/LaptopOrders.java" package="" timestamp="09-Sep-2024 11:44:29">
+        <select from="4771" to="4771"/>
+        <scroll column="2272" row="0"/>
+      </file>
+      <file name="src/ValidateInput.java" package="" timestamp="17-Apr-2024 23:44:46">
+        <select from="4771" to="4771"/>
+        <scroll column="2272" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
